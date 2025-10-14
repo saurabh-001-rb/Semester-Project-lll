@@ -84,3 +84,14 @@ Software
 •	Matplotlib 3.5.2
 •	Flask 2.1.2 (for web interface)
 
+Module 1
+
+Dataset:  Flickr8k 
+Flickr8k is a multimodal dataset that couples visual data (images) with textual data (captions). It is often used for training Encoder-Decoder architectures like the one in your project (CNN-LSTM).
+Total Images: The dataset contains 8,092 unique images.
+Captions: Every image is paired with five different human-annotated captions (descriptions).
+Total Captions: This results in over 40,000 captions in total.
+Data Split: The dataset is typically pre-split for training, development (dev), and testing.
+Training Set: Usually 6,000 images.
+Test/Development Sets: Usually 1,000 images each.
+
