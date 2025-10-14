@@ -103,3 +103,16 @@ Training Set: Usually 6,000 images.
 
 Test/Development Sets: Usually 1,000 images each.
 
+
+Module 2
+
+This module explains how our deep learning model generates captions for images using a combination of computer vision and natural language processing.
+
+Model Components:
+Encoder (CNN - Xception): Extracts visual features from the input image.
+
+Decoder (LSTM): Generates text (captions) word by word based on image features and previous words.
+
+Combined Architecture: CNN and LSTM work together in an encoder-decoder setup.
+
+Output: Predicts the next word in a caption using both image context and previously generated words.
