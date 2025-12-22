@@ -20,13 +20,20 @@ An end-to-end deep learning system that generates natural language captions from
 
 ## 📂 Project Structure
 
-├── caption_model.keras\n
+├── caption_model.keras
+|
 ├── caption_model.h5
+|
 ├── tokenizer_for_training.pkl
+|
 ├── inference.py
+|
 ├── api_server.py
+|
 ├── requirements.txt
+|
 ├── model_report_outputs/
+|
 └── README.md
 
 🛠 Tech Stack
