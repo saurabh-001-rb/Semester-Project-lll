@@ -131,6 +131,8 @@ Each run generates a professional report containing:
 Saved as:
 model_report_YYYYMMDDTHHMMSSZ.pdf
 
+## Link : https://1b1a4e3fe5b151f737.gradio.live/
+
 ==================================================
 
 ## 🧪 Example Output
