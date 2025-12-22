@@ -1,11 +1,11 @@
-🎓 Semester-Project-III
-🖼️ Advanced Image Captioning & Vision Analytics System
+#🎓 Semester-Project-III
+##🖼️ Advanced Image Captioning & Vision Analytics System
 
 An end-to-end deep learning system that automatically generates natural language captions for images, performs visual analytics, benchmarks performance, and exports professional PDF reports.
 
 ==================================================
 
-🚀 Features
+##🚀 Features
 
 - Upload any image → auto-generate caption
 - CNN + LSTM model (InceptionV3 + LSTM)
@@ -19,7 +19,7 @@ An end-to-end deep learning system that automatically generates natural language
 
 ==================================================
 
-📂 Project Structure
+##📂 Project Structure
 
 .
 ├── caption_model.keras
@@ -33,7 +33,7 @@ An end-to-end deep learning system that automatically generates natural language
 
 ==================================================
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 - TensorFlow / Keras
 - PyTorch / TorchVision
@@ -43,7 +43,7 @@ An end-to-end deep learning system that automatically generates natural language
 
 ==================================================
 
-1️⃣ Train / Build and Save Model
+##1️⃣ Train / Build and Save Model
 
 Run the provided notebook cell that:
 
@@ -61,7 +61,7 @@ Files will auto-download in Google Colab.
 
 ==================================================
 
-2️⃣ Load Model & Generate Captions
+##2️⃣ Load Model & Generate Captions
 
 Use the inference script:
 
@@ -69,7 +69,7 @@ python inference.py path/to/image.jpg
 
 ==================================================
 
-3️⃣ Run Full Vision Pipeline
+##3️⃣ Run Full Vision Pipeline
 
 Upload images → the system will:
 
@@ -87,7 +87,7 @@ model_report_outputs/
 
 ==================================================
 
-📊 Visualizations Generated
+##📊 Visualizations Generated
 
 - Object distribution bar chart
 - Detection confidence histogram
@@ -98,7 +98,7 @@ model_report_outputs/
 
 ==================================================
 
-⏱️ Performance & Benchmarking
+##⏱️ Performance & Benchmarking
 
 The system automatically records:
 
@@ -116,7 +116,7 @@ Graphs Included:
 
 ==================================================
 
-📄 PDF Report
+##📄 PDF Report
 
 Each run generates a professional report containing:
 
@@ -132,7 +132,7 @@ model_report_YYYYMMDDTHHMMSSZ.pdf
 
 ==================================================
 
-🧪 Example Output
+##🧪 Example Output
 
 📌 Caption:
 A family playing in the grass with a hose.
@@ -144,7 +144,7 @@ A family playing in the grass with a hose.
 
 ==================================================
 
-❗ Error Handling
+##❗ Error Handling
 
 The system includes:
 
@@ -155,14 +155,14 @@ The system includes:
 
 ==================================================
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute for research and commercial use.
 
 ==================================================
 
-🙌 Acknowledgements
+##🙌 Acknowledgements
 
 - TensorFlow & Keras Team
 - PyTorch & TorchVision
